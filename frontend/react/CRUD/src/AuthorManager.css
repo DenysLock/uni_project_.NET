@@ -1,0 +1,30 @@
+/* AuthorManager.css */
+
+.container {
+    max-width: 800px; /* Maximum width of the container */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Add some padding */
+}
+
+.table-wrapper {
+    margin-top: 20px; /* Space above the table */
+    border-radius: 8px; /* Rounded corners for table wrapper */
+    overflow: hidden; /* Clip the corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+}
+
+.table-title {
+    background-color: #f7f7f7; /* Light background for title */
+    padding: 15px; /* Padding around title */
+    border-bottom: 1px solid #ddd; /* Bottom border for separation */
+}
+
+.table {
+    margin-top: 20px; /* Space above the table */
+}
+
+.btn {
+    margin: 5px; /* Space between buttons */
+}
+
+
